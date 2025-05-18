@@ -27,7 +27,7 @@ A comprehensive notification system supporting multiple delivery channels with r
 | **Nodemailer**| Email delivery                   | nodemailer   |  
 
 ## **Screenshots** ##
-![dashboard](/notification-service/assets/sending%20notif.png)
+![dashboard](/notification-service/assets/sendingnotif.png)
 
 ## **🛠 Setup Instructions**
 
